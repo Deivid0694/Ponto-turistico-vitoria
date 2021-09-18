@@ -1,2 +1,2 @@
-# Ponto-turistico-vitoria
+# Pontoturisticovitoria
 projeto do site pontoturisticovitoria.com.br
